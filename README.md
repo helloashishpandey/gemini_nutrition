@@ -20,5 +20,5 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/gemini_nutrition.git
+git clone https://github.com/helloashishpandey/gemini_nutrition.git
 cd gemini_nutrition
